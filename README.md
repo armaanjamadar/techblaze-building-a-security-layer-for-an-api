@@ -30,6 +30,8 @@ git clone https://github.com/armaanjamadar/techblaze-building-a-security-layer-f
 npm install
 node server
 ```
+
+## Directory Structure
 ```
 xAPI/
 │
