@@ -1,6 +1,6 @@
 # xAPI
 
-A secure Node.js API designed with basic security features such as authentication, authorization, input validation, rate limiting, secure error handling, logging, and request monitoring.
+A secure Node.js API designed with advanced security features such as authentication, authorization, input validation, rate limiting, secure error handling, logging, request monitoring and is highly scalable. 
 
 ## Team
 
