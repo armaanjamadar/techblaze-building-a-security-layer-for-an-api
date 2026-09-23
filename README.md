@@ -50,7 +50,8 @@ The API implements the following security features:
 - Input Validation – Validates and sanitizes incoming data.
 - Rate Limiting – Limits excessive API requests and helps prevent abuse.
 - Secure Error Handling – Prevents sensitive information from being exposed through error messages.
-- Request Logging – Records API activity for monitoring and security analysis.
+- Logging - Keeps record of all the requests
+- Request Monitoring – Tracks API activity for monitoring and security analysis.
 
 ## Technology Stack
 ### Frontend
