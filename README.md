@@ -2,6 +2,14 @@
 
 A secure Node.js API designed with basic security features such as authentication, authorization, input validation, rate limiting, secure error handling, and request logging.
 
+## Team
+
+| Name | Role |
+|------|------|
+| Abdul Muhaimin | Frontend Developer |
+| Tushar Halder | Backend Developer & Product Manager |
+| Santosh Joshi | Technical Designer | 
+
 ## Quick Start
 
 ### 1. Clone the Repository
