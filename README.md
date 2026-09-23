@@ -25,3 +25,40 @@ git clone https://github.com/armaanjamadar/techblaze-building-a-security-layer-f
 npm install
 node server
 ```
+```
+xAPI/
+│
+├── backend/              # Node.js backend API
+│   ├── server.js
+│   ├── package.json
+│   └── ...
+│
+├── frontend/             # Flutter frontend application
+│   ├── lib/
+│   ├── pubspec.yaml
+│   └── ...
+│
+└── README.md
+```
+
+## Security Features
+
+The API implements the following security features:
+
+- Authentication – Verifies the identity of users.
+- Authorization – Controls access to protected resources.
+- Input Validation – Validates and sanitizes incoming data.
+- Rate Limiting – Limits excessive API requests and helps prevent abuse.
+- Secure Error Handling – Prevents sensitive information from being exposed through error messages.
+- Request Logging – Records API activity for monitoring and security analysis.
+
+## Technology Stack
+### Frontend
+- Flutter
+- Dart
+### Backend
+- node.js
+- express.js
+
+## Purpose
+The purpose of xAPI is to demonstrate how a security layer can be implemented around an API to protect it against common security weaknesses and abusive requests.
