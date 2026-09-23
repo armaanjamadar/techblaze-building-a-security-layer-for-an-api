@@ -58,6 +58,11 @@ The API implements the following security features:
 - Logging - Keeps record of all the requests
 - Request Monitoring – Tracks API activity for monitoring and security analysis.
 
+## Resources
+- Flutter https://docs.flutter.dev/install/quick
+- Node.js https://nodejs.org/docs/latest/api/
+- express.js https://expressjs.com/en/5x/starter/installing/
+
 ## Technology Stack
 ### Frontend
 - Flutter
