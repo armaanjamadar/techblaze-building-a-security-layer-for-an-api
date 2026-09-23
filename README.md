@@ -12,15 +12,20 @@ A secure Node.js API designed with basic security features such as authenticatio
 
 ## Quick Start
 
-### 1. Clone the Repository
+### 1. Requirements
+- node.js
+- flutter
+- android studio
+
+### 2. Clone the Repository
 
 ```bash
 git clone https://github.com/armaanjamadar/techblaze-building-a-security-layer-for-an-api.git 
 ```
 
-### 2. Go to backend folder
+### 3. Go to backend folder
 
-### 3.  Run the following comamnds
+### 4.  Run the following comamnds
 ```bash
 npm install
 node server
